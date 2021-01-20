@@ -1,1 +1,5 @@
-
+The World Wide Web is considered to be the software part where the websites are while the internet is the hardware such as the actual computer.
+The internet works by taking your request, such as trying to look something up, and sending to your router. Your router then sends the request to the service provider's router which sends it to another router and so on until the request reaches the destination.
+A directory is a folder where files can be placed to keep projects organized.
+A VCS will help me by showing any updates to files I make, but also allowing me to to access older versions of files if needed.
+My favorite kind of art is 3D.
