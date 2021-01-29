@@ -1,0 +1,7 @@
+1. I enjoy going to YouTube, Reddit, and GamesRadar.
+2. The DNS is the domain name for the website while the IP Address is the
+   number associated with that domain name that the computer can read.
+3. A cookie is essentially a bookmark that a computer uses to mark that you
+   went onto that site.
+4. The three essential parts of a URL are protocol, domain name, and path to
+   the file.
