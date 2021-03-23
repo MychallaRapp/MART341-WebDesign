@@ -1,0 +1,35 @@
+body
+{
+  font-family: sans-serif;
+}
+.main-container
+{
+  border-style: solid;
+  border-width: 15px;
+  border-color: black;
+  padding: 5px;
+  background: lavender;
+  width: 75%;
+  margin: auto;
+}
+div.align
+{
+  text-align: center;
+}
+.secondary-container
+{
+  margin: auto;
+  width: 50%;
+  padding: 45px;
+  border-bottom: 1px black solid;
+  border-spacing: inherit;
+}
+#mainheader
+{
+  position: relative;
+  left: 15px;
+  top: 3px;
+  color: AliceBlue;
+  opacity: .75;
+  font-size: 50px;
+}
