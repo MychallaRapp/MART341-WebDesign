@@ -1,0 +1,18 @@
+@font-face
+{
+  font-family: 'New Tegomin';
+  src: url('. ./fonts/NewTegomin-Regular.ttf') format: ('truetype');
+  font-style: normal;
+}
+@font-face
+{
+  font-family: 'Roboto Mono';
+  src: url('. ./fonts/RobotoMono-Italic-VariableFont_wght.ttf') format: ('truetype');
+  font-style: normal;
+}
+@font-face
+{
+  font-family: 'Roboto Mono';
+  src: url('. ./fonts/RobotoMono-VariableFont_wght.ttf') format: ('truetype');
+  font-style: normal;
+}

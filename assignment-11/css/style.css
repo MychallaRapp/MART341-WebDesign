@@ -1,0 +1,43 @@
+div
+{
+  text-align: left;
+  line-height: 1.50em;
+  font-family: Roboto Mono;
+  margin-bottom: 5px;
+  padding: 3px;
+}
+h1, h2, h4
+{
+  text-align: center;
+  font-family:New Tegomin;
+}
+.first-paragrapgh
+{
+  color: black;
+  font-size: 30px;
+  text-indent: 5px;
+  font-weight: 400;
+}
+.first-paragraph::first-line
+{
+  font-size: 30px;
+}
+.second-paragrapgh
+{
+  font-size: 15px;
+}
+#story-info
+{
+  text-decoration: none;
+  font-family: Roboto Mono;
+}
+table
+{
+  border: 1px solid black;
+  font-family: New Tegomin,;
+  font-weight: 400;
+}
+p
+{
+  font-family: Roboto Mono;
+}
