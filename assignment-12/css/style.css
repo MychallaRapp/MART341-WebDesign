@@ -1,0 +1,114 @@
+div
+{
+  text-align: left;
+  line-height: 1.50em;
+  font-family: Roboto Mono;
+  margin-bottom: 5px;
+  padding: 3px;
+}
+h1, h2, h4
+{
+  text-align: center;
+  font-family:New Tegomin;
+}
+.first-paragrapgh
+{
+  color: black;
+  font-size: 30px;
+  text-indent: 5px;
+  font-weight: 400;
+}
+.first-paragraph::first-line
+{
+  font-size: 30px;
+}
+.second-paragrapgh
+{
+  font-size: 15px;
+}
+#story-info
+{
+  text-decoration: none;
+  font-family: Roboto Mono;
+}
+table
+{
+  border: 1px solid black;
+  font-family: New Tegomin,;
+  font-weight: 400;
+}
+p
+{
+  font-family: Roboto Mono;
+}
+header
+{
+  position: fixed;
+  top: 1px;
+  left: 1px;
+  background-color: lavender;
+  font-family: Roboto Mono;
+  text-transform: uppercase;
+  margin-top: 1;
+  height: 2em;
+  width: 100%;
+  text-align: left;
+}
+.menu-item
+{
+  display: inline-block;
+  margin: 1em .2em;
+  min-width: 4em;
+  text-align: center;
+  background-color: lavender;
+}
+.menu-item a
+{
+  color: #fff;
+  text-decoration: none;
+}
+.menu-item:hover
+{
+  background-color: lightcyan;
+}
+.dropdown
+{
+  display: inline-block;
+}
+.dropdown-content
+{
+  display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+}
+.dropdown-content a
+{
+  color: #000;
+}
+.dropdown:hover .dropdown-content
+{
+  display: block;
+}
+.dropdown-item
+{
+  display: block;
+  text-align: left;
+  margin: 1;
+  min-width: 3em;
+}
+.dropdown-item:hover, .dropdown-item:hover a
+{
+  color: black;
+  background-color: aliceblue;
+}
+.mainimage
+{
+  float: left;
+}
+.bookcover
+{
+  float: right;
+}
